@@ -1,3 +1,9 @@
 markdown: redcarpet
 baseurl: /porfolio
 exclude: ['README.md']
+
+#site settings
+
+title: porfolio gabriela zifferman
+email: gabrielazifferman@gmail.com
+description: porfolio gabriela zifferman
